@@ -1,4 +1,4 @@
-"""
+"""Remove duplicates with hyphy analysis
 """
 configfile: "config/config.yaml"
 from grapevne_helper import import_grapevne

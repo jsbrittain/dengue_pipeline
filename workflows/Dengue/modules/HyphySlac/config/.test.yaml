@@ -4,4 +4,5 @@ ports:
     namespace: in
 namespace: out
 params:
-  branches = "Foreground"
+  branches: "Foreground"
+  threads: 1
